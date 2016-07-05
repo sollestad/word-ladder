@@ -10,9 +10,10 @@ The file wordlist.txt needs to be in the same directory. It contains an extensiv
 
 Example input and Output:
 
-  :perl doublets.pl hello saves
-  :Found chain
-   hello ---> cello ---> cells ---> bells ---> balls ---> bales ---> sales ---> saves
+perl doublets.pl hello saves
+Found chain
+hello ---> cello ---> cells ---> bells ---> balls ---> bales ---> sales ---> saves 
+
   
   
 
