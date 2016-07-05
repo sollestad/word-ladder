@@ -8,8 +8,8 @@ where words are words to chain.
 
 The file wordlist.txt needs to be in the same directory. It contains an extensive list of english words to check word chainings.
 
-Example input and Output:
-: perl doublets.pl hello saves
+Example input and Output: 
+  perl doublets.pl hello saves
   Found chain
   hello ---> cello ---> cells ---> bells ---> balls ---> bales ---> sales ---> saves
   
